@@ -5,7 +5,7 @@ x = y +z
 x = y - z
 
 //Multiplicação
-
+x = y * z
 
 //Divisão
 
