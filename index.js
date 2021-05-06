@@ -2,7 +2,7 @@
 
 
 //Subtração
-
+x = y - z
 
 //Multiplicação
 
